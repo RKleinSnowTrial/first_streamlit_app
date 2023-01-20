@@ -1,7 +1,7 @@
 import streamlit
-import pkg_resources
-pkg_resources.require("charset-normalizer==`2.1.1")  
-import charset-normalizer 
+#import pkg_resources
+#pkg_resources.require("charset-normalizer==`2.1.1")  
+#import charset-normalizer 
 
 
 streamlit.header('Breakfast Favorites')
