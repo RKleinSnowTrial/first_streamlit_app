@@ -36,4 +36,4 @@ streamlit.dataframe(fruityvice_normalized)
 
 # Display the table on the page.
 
-##import snowflake.connector
+
