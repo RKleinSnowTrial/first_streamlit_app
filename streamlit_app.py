@@ -1,5 +1,5 @@
 import streamlit
-
+import charset-normalizer pkg_resources.require("charset-normalizer==`2.1.1")
 streamlit.title('My Parents New Healthy Diner')
 
 streamlit.header('Breakfast Favorites')
